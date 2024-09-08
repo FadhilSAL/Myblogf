@@ -1,0 +1,48 @@
+body{background-color: grey;
+     font-family:sans-serif;
+     background-image: url(thomas-heintz-0tgMnMIYQ9Y-unsplash.jpg);
+}
+
+
+
+.container{margin: auto;
+           width: 900px;
+           background-color: #fff;
+
+}
+
+.header{margin: auto;}
+
+h2{
+
+padding: 20px;
+font-size: 200%;
+
+
+
+}
+
+ul li{list-style: none;
+      display: inline-block;
+      color :red;
+      padding: 10px 20px;
+}
+
+ul li:hover{color:blue;
+            cursor: pointer;
+}
+
+.creator{text-decoration: none; }
+.creator:hover{color : red;}
+
+h5{color: grey;}
+
+p{text-align: justify;
+  padding: 15px;
+}
+
+
+
+img{border-top: solid rgb(255, 0, 0) 3px ;
+    border-bottom: solid rgb(0, 0, 255) 3px;
+}
